@@ -451,7 +451,11 @@ body {
     .icon {
         top: auto;
         width: 25px; /* Adjust size for mobile */
+        a {
+    text-decoration: none;
+}
     }
 }
+
 
 
