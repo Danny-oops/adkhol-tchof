@@ -16,7 +16,7 @@ body {
     top: 100px;
     left: 350px;
     width: 600px;
-    height: 1750px;
+    height: 1650px;
     background-color: rgb(159, 0, 252);
     border-radius: 15px;
     display: flex;
@@ -439,6 +439,7 @@ body {
     text-decoration: none;
 }
 }
+
 
 
 
